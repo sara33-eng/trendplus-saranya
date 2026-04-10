@@ -92,7 +92,7 @@ def main():
     plt.savefig(f"{OUTPUT_DIR}/dashboard.png")
     plt.close()
 
-    print("Charts saved in outputs/ folder")
+    print("Charts saved in outputs folder")
 
 
 if __name__ == "__main__":
