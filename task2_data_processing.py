@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-# File path (update if needed)
+# File path
 INPUT_FILE = "data/trends_20260410.json"
 OUTPUT_FILE = "data/trends_clean.csv"
 
